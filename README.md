@@ -7,4 +7,4 @@ If any changes are made to the database
 --> python manage.py migrate
 
 To run the server  
-python manage.py runserver  
+--> python manage.py runserver  
